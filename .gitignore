@@ -1,0 +1,14 @@
+# Ignorar arquivos de vídeo grandes
+*.mp4
+*.mov
+*.avi
+
+# Ignorar arquivos temporários e cache
+*.log
+*.tmp
+.DS_Store
+
+# Ignorar arquivos específicos de sistema e de backup
+Thumbs.db
+*.bak
+*.swp

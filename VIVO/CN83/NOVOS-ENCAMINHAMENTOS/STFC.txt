@@ -1,0 +1,122 @@
+====================================================================================================================================
+============================================       LC: (9090) PREF-MCDU TLF ALO JPA       ==========================================
+============================================             SE: 10315 / 10615"               ==========================================
+====================================================================================================================================
+
+10315
+
+CCNUEN:PLE=0,PEA=187,CNU=k'10315,NAN=R_PAD,TDE=LOCAL,NDE=1183,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+10615
+
+CCNUEN:PLE=0,PEA=187,CNU=k'10615,NAN=R_PAD,TDE=LOCAL,NDE=1183,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+30219999
+909030219999
+
+CCNUEN:PLE=0,PEA=187,CNU=k'3021,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+CCNUEN:PLE=0,PEA=187,CNU=k'90903021,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+CCNUEN:PLE=0,PEA=187,CNU=k'909030231199,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+40629999
+909040629999
+
+CCNUEN:PLE=0,PEA=187,CNU=k'4062,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+CCNUEN:PLE=0,PEA=187,CNU=k'90904062,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+57040999
+909057040999
+
+CCNUEN:PLE=0,PEA=87,CNU=k'57040,NAN=R_PAD,TDE=LOCAL,NDE=401,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=395;
+CCNUEN:PLE=0,PEA=187,CNU=k'57040,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+CCNUEN:PLE=0,PEA=87,CNU=k'909057040,NAN=R_PAD,TDE=LOCAL,NDE=401,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=395;
+CCNUEN:PLE=0,PEA=187,CNU=k'909057040,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+32467620
+909032467620
+
+CCNUEN:PLE=0,PEA=187,CNU=k'E2158332467620,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=150;
+CCNUEN:PLE=0,PEA=187,CNU=k'9090E2158332475911,NAN=R_PAD,TDE=DDC_L,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=110;
+
+======================================================================================================================================
+============================================       CNG: 08XX 03XX 05XX 09XX (10-11 dig)       ========================================
+======================================================================================================================================
+
+03003131010
+
+CCNUEN:PLE=0,PEA=187,CNU=k'E21503003131010,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=162;
+
+======================================================================================================================================
+====================================================       LD: (9) 0CN PREF-MCDU       ===============================================
+======================================================================================================================================
+
+0151120119999
+
+CCNUEN:PLE=0,PEA=87,CNU=k'0154130391199,NAN=R_PAD,TDE=NACIO,NDE=403,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=395;
+CCNUEN:PLE=0,PEA=187,CNU=k'0154130391199,NAN=R_PAD,TDE=NACIO,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+01588999626796
+015E32088999626796
+
+CCNUEN:PLE=0,PEA=87,CNU=k'0154131148107,NAN=R_PAD,TDE=NACIO,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+CCNUEN:PLE=0,PEA=88,CNU=k'015,NAN=R_PAD,TDE=REANALIS,RSS=0,CR1=0,MDB=916,NPA=187;
+CCNUEN:PLE=0,PEA=87,CNU=k'015E32088999626796,NAN=R_PAD,TDE=NACIO,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=111;
+
+====================================================================================================================================
+============================================       LC: (9) 0CN PREF-MCDU VIVO SMP 83       =========================================
+============================================                  SE: 0CN1058                  =========================================
+====================================================================================================================================
+
+989100000
+
+CCNUEN:PLE=0,PEA=187,CNU=k'9891,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+E32083921409999
+
+CCNUEN:PLE=0,PEA=187,CNU=k'E32083921409999,NAN=R_PAD,TDE=LOCAL,NDE=1083,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+1058
+
+CCNUEN:PLE=0,PEA=187,CNU=k'1058,NAN=R_PAD,TDE=LOCAL,NDE=1183,DIG=INDEF,RES=0,CR1=0,RSS=0,MO1=S_INF,MA1=S_INF,MB1=S_INF,MDB=S_INF;
+
+
+Números p/ teste 
+
+10315 -
+10615 -
+30219999 - 
+909030219999 -
+40620000 - 
+909040620000 - 
+57040999 - 
+909057040999 - 
+8332467620 - 
+90908332467620 -
+
+08002850196 - 
+
+0151120119999 - 
+01588999626796 - 
+
+989100000 - 
+921409999 - 
+1058 - 
+
+
+MNTLPO:ISV=portab,NTL="83921409999",CDO="00453";
+CNTLPO:ISV=portab,NTL="83921409999",EIP=S_INF,RNP="553",CSP=20,CNL="00083",NUE="E32083921409999",NUF=S_INF,TBR=S_INF,TPB=PREST;
+
+
+
+  TIPO DE ENCAMINHAMENTO POR ASSINANTE
+  NTL = 88999626796          OPC = S_INF    RNP = 553      CSP = 20
+  EIP = S_INF
+  CDO = 00455
+  CNL = S_INF                NUF = S_INF                   TPB = PREST
+  CPT = NAO                  CRE = S_INF    NUE = E32088999626796
+  DAT = 2023-10-06           HOR = 12:33:12.164102
+  TBR = S_INF
+
+

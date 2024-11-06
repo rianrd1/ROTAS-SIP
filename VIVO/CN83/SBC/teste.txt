@@ -1,0 +1,2576 @@
+session-agent
+        hostname                                10.83.0.29
+        ip-address                              10.83.0.29
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Access-STFCCN83_VIVO_LC
+        egress-realm-id
+        description                             "Acesso VSI-brisanet LC-CN83"
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           30
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-08-28 09:33:29
+session-agent
+        hostname                                10.83.0.30
+        ip-address                              10.83.0.30
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Access-STFCCN83_VIVO_LD15_CNG
+        egress-realm-id
+        description                             "Acesso VSI-brisanet LD15+CNG-CN83"
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           30
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.40.190
+        last-modified-date                      2024-08-29 16:02:33
+session-agent
+        hostname                                10.85.0.35
+        ip-address                              10.85.0.35
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Access-VIVO
+        egress-realm-id
+        description                             "Acesso VIVO"
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           enabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-04-29 16:50:40
+session-agent
+        hostname                                172.26.224.3
+        ip-address                              172.26.224.3
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                access-jdo
+        egress-realm-id
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.10
+        ip-address                              172.26.50.10
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proc_201_VSS_Tpsip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.12
+        ip-address                              172.26.50.12
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proca_205_VSS_Tpsip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.140
+        ip-address                              172.26.50.140
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Core-vsi
+        egress-realm-id
+        description                             "Core VSI-brisanet"
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS
+        ping-interval                           30
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.40.100
+        last-modified-date                      2024-04-25 14:45:07
+session-agent
+        hostname                                172.26.50.141
+        ip-address                              172.26.50.141
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proc 1001 VSI2 - Cosip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.142
+        ip-address                              172.26.50.142
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proc 1001 VSI2 - Cosip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.16
+        ip-address                              172.26.50.16
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Primary Broadworks
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             enabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       1
+        sustain-rate-window                     30
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          continuous
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes          200
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               600
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 248
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.17
+        ip-address                              172.26.50.17
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Secundary Broadworks
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             enabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       1
+        sustain-rate-window                     30
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          continuous
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes          200
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               600
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 248
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.183
+        ip-address                              172.26.50.183
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Secundary VSS CL5
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             enabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       1
+        sustain-rate-window                     30
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          continuous
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes          200
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               300
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 124
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.2
+        ip-address                              172.26.50.2
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proc 1001 VSI - Cosip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.3
+        ip-address                              172.26.50.3
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Proc 1002 VSI - Cosip
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                172.26.50.39
+        ip-address                              172.26.50.39
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Core-vsi
+        egress-realm-id
+        description                             "Core VSI-brisanet"
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-04-29 11:11:40
+session-agent
+        hostname                                172.26.50.83
+        ip-address                              172.26.50.83
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP+TCP
+        realm-id                                core
+        egress-realm-id
+        description                             Primary VSS CL5
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             enabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       1
+        sustain-rate-window                     30
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          continuous
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes          200
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               300
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 124
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.14
+        ip-address                              187.19.148.14
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.149
+        ip-address                              187.19.148.149
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.162
+        ip-address                              187.19.148.162
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.190
+        ip-address                              187.19.148.190
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.42
+        ip-address                              187.19.148.42
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.46
+        ip-address                              187.19.148.46
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                187.19.148.74
+        ip-address                              187.19.148.74
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                *
+        egress-realm-id                         access-callcenter
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method
+        ping-interval                           0
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@192.168.233.1
+        last-modified-date                      2024-01-26 23:25:21
+session-agent
+        hostname                                lb01.voice.sae1.pure.cloud
+        ip-address                              18.229.62.233
+        port                                    5061
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        DynamicTLS
+        realm-id                                access-gpc
+        egress-realm-id
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            preferred
+        rfc2833-payload                         101
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       TLS
+        tcp-keepalive                           enabled
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-02-02 17:49:29
+session-agent
+        hostname                                lb02.voice.sae1.pure.cloud
+        ip-address                              177.71.170.155
+        port                                    5061
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        DynamicTLS
+        realm-id                                access-gpc
+        egress-realm-id
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            preferred
+        rfc2833-payload                         101
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       TLS
+        tcp-keepalive                           enabled
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-02-02 17:49:42
+session-agent
+        hostname                                lb03.voice.sae1.pure.cloud
+        ip-address                              18.229.17.171
+        port                                    5061
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        DynamicTLS
+        realm-id                                access-gpc
+        egress-realm-id
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            preferred
+        rfc2833-payload                         101
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       TLS
+        tcp-keepalive                           enabled
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-02-02 17:49:46
+session-agent
+        hostname                                lb04.voice.sae1.pure.cloud
+        ip-address                              54.207.115.206
+        port                                    5061
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        DynamicTLS
+        realm-id                                access-gpc
+        egress-realm-id
+        description
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS;hops=0
+        ping-interval                           60
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            preferred
+        rfc2833-payload                         101
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       TLS
+        tcp-keepalive                           enabled
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-02-02 17:49:50
+session-agent
+        hostname                                vivostfc83lc.brisanet.net
+        ip-address                              172.26.50.39
+        port                                    5060
+        state                                   enabled
+        app-protocol                            SIP
+        app-type
+        transport-method                        UDP
+        realm-id                                Core-STFCCN83_VIVO_LC
+        egress-realm-id
+        description                             Core-STFCCN83_VIVO_LOCAL
+        carriers
+        allow-next-hop-lp                       enabled
+        associated-agents
+        constraints                             disabled
+        max-sessions                            0
+        max-inbound-sessions                    0
+        max-outbound-sessions                   0
+        max-burst-rate                          0
+        max-inbound-burst-rate                  0
+        max-outbound-burst-rate                 0
+        max-sustain-rate                        0
+        max-inbound-sustain-rate                0
+        max-outbound-sustain-rate               0
+        min-seizures                            5
+        min-asr                                 0
+        cac-trap-threshold                      0
+        session-max-life-limit                  0
+        time-to-resume                          0
+        ttr-no-response                         0
+        in-service-period                       0
+        burst-rate-window                       0
+        sustain-rate-window                     0
+        req-uri-carrier-mode                    None
+        proxy-mode
+        redirect-action
+        loose-routing                           enabled
+        send-media-session                      enabled
+        response-map
+        ping-method                             OPTIONS
+        ping-interval                           30
+        ping-send-mode                          keep-alive
+        ping-all-addresses                      disabled
+        ping-in-service-response-codes
+        out-service-response-codes
+        load-balance-dns-query                  hunt
+        options
+        spl-options
+        media-profiles
+        in-translationid
+        out-translationid
+        trust-me                                disabled
+        request-uri-headers
+        stop-recurse
+        local-response-map
+        ping-to-user-part
+        ping-from-user-part
+        ping-response                           disabled
+        in-manipulationid
+        out-manipulationid
+        manipulation-string
+        manipulation-pattern
+        p-asserted-id
+        trunk-group
+        max-register-sustain-rate               0
+        early-media-allow
+        invalidate-registrations                disabled
+        rfc2833-mode                            none
+        rfc2833-payload                         0
+        codec-policy
+        enforcement-profile
+        refer-call-transfer                     disabled
+        refer-notify-provisional                none
+        reuse-connections                       NONE
+        tcp-keepalive                           none
+        tcp-reconn-interval                     0
+        max-register-burst-rate                 0
+        register-burst-window                   0
+        sip-profile
+        sip-isup-profile
+        kpml-interworking                       inherit
+        kpml2833-iwf-on-hairpin                 inherit
+        precedence                              0
+        monitoring-filters
+        hold-refer-reinvite                     disabled
+        send-tcp-fin                            disabled
+        sip-recursion-policy
+        sm-icsi-match-for-invite
+        sm-icsi-match-for-message
+        fax-servers
+        last-modified-by                        admin@172.26.11.6
+        last-modified-date                      2024-08-28 09:19:28

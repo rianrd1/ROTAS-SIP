@@ -1,0 +1,27 @@
+===============================================      ROTA VSS -> VSI     =======================================================
+================================================================================================================================
+CZONRT:DOM="vivotransporte.brisanet.net",EMA="tropiconet@tropiconet.com",SVR="10.88.1.200",RFR=86400,RET=20,EXP=86400,TTI=86400;
+================================================================================================================================
+CHOSRT:DOM="vivotransporte.brisanet.net",INM="tpsipvivotransporte",EIP="172.26.50.37";
+CHOSRT:DOM="vivotransporte.brisanet.net",INM="cosipvivotransporte",EIP="172.26.50.39";
+CHOSRT:DOM="vivotransporte.brisanet.net",INM="cosipvivotransporte",EIP="172.26.50.140";
+================================================================================================================================
+CDADRO:ROS=2000,IRS="VIVO_TRANSPORTE_S",CAP=NORMAL,LSU=50,LIN=25;
+CDADRO:ROE=2100,IRE="VIVO_TRANSPORTE_E",cap=NORMAL,LIN=25,LSU=50;
+================================================================================================================================
+CDADGJ:GRJ=2000,ROE=2100,ROS=2000,CLI=sip,SRG=isup_88,CTR=irre64,CEN=terre,CRV=ncoip,MBJ=trop,CGJ=200;
+MDADGJ:GRJ=2000,TAL=inc,EIP="cosipvivotransporte.vivotransporte.brisanet.net",pps=5060;
+MDADGJ:GRJ=2000,TAL=inc,PRO=207;
+MDADGJ:GRJ=2000,TAL=ret,PRO=208;
+================================================================================================================================
+APFGSI:GRJ=2000,FGJ=ENV_FQDN;
+APFGSI:GRJ=2000,FGJ=HOSTNAME;
+APFGSI:GRJ=2000,FGJ=HOSTCONT;
+================================================================================================================================
+CDROEN:ROT=2000,TRO=comum;
+CROTEN:PLE=0,ROT=2100,PEA=505,ATO=0,TIR=NOR,PEC=5,ACT=NENHUMA,MA2=S_INF,MB2=S_INF,TRI=TABIR1,IBA=snmnb;
+================================================================================================================================
+CGROEN:PLE=0,GRO=2000,ROT=2000,ORD=1,PDE=1,PEN=8,RDF=NRDFN11,MA3=S_INF,MB3=S_INF,MCT=NAO,PUI=PUISUP,ECA=NAO;
+================================================================================================================================
+CDENEN:PLE=0,NDE=2000,GRO=2000,ORD=1,ATD=0,PSE=8,TPE=CIC,ACT=NENHUMA,PDA=NAO,TBU=PRTERR;
+================================================================================================================================

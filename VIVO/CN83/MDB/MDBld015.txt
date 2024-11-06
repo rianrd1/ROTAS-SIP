@@ -1,0 +1,13 @@
+Novo mdb p/ LD portada 015
+
+CMODEN:PLE=0,MDB=915,PSP=4,NDS=1;
+CMODEN:PLE=0,MDB=916,PSP=1,NDS=0,PIN=4,DPI=K'E;
+CMODEN:PLE=0,MDB=111,PSP=4,NDS=4;
+
+Novo mdb p/ LD portada 015 a cobrar
+
+CMODEN:PLE=0,MDB=112,PSP=5,NDS=4;
+
+Novo mdb p/ LC portada a cobrar
+
+CMODEN:PLE=0,MDB=110,PSP=5,NDS=6;
